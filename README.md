@@ -1,0 +1,4 @@
+| S.No | 📂 Project Name | 🤖 Model / Algorithm | 🛠️ Tech Stack | 🚀 Status | 🔗 Links |
+|:--:|:---|:---|:---|:--:|:--:|
+| **01** | **Sonar Rock vs Mine**<br>_Detection System_ | `Logistic Regression` | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Sklearn](https://img.shields.io/badge/Sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | ![Completed](https://img.shields.io/badge/Completed-Success?style=flat) | [![Repo](https://img.shields.io/badge/View_Code-black?style=flat&logo=github)](YOUR_LINK_HERE) |
+| **02** | **Telco Customer Churn**<br>_Data Engineering_ | `Window Functions` `CTEs` | ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) | 🚧 *In Progress* | [![Repo](https://img.shields.io/badge/View_Code-black?style=flat&logo=github)](YOUR_LINK_HERE) |
